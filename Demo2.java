@@ -3,8 +3,8 @@ Operators in  Java:
 1. Arithmetic Operators
 2. Assignment Operators
 3. Relational Operators
-4. Logical Operators
-5. Bitwise Operators
+4. Bitwise Operators
+5. Logical Operators
 6. Unary Operators
 7. Ternary Operators
 
