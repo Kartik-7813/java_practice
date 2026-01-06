@@ -33,7 +33,7 @@ public class Demo2 {
 
     /* Assignment Operators in Java:
     1. Assignment (=)
-    2. Addition Assignment (+=)
+    2. Addition Assignment (+=)s
     3. Subtraction Assignment (-=)
     4. Multiplication Assignment (*=)
     5. Division Assignment (/=)
