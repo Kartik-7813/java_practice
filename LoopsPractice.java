@@ -44,6 +44,7 @@ public class LoopsPractice {
             }
             l++;
         }
+        
         // do-while loop
         System.out.println("\nNumbers from 1 to 10 using do-while loop: ");
         int k=1;
