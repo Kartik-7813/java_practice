@@ -11,11 +11,6 @@ Arrays can be declared in two ways:
 2. dataType[] arrayName = {value1, value2, value3, ..., valueN};
 
 */
-
-
-
-
-
 public class ArrayPractice {
     
     public static void main(String[] args) {
